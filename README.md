@@ -11,7 +11,7 @@
 
 <!--- https://github.com/anuraghazra/github-readme-stats --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gruningzen202302&theme=transparent&border_radius=8&rank_icon=github&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qimono-repos&theme=transparent&border_radius=8&rank_icon=github&show_icons=true)
 
 <!--- https://github.com/Ileriayo/markdown-badges --->
 
@@ -23,8 +23,4 @@
 
 <img alt="NET7" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 
-<!---
-gruningzen202302/gruningzen202302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
