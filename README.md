@@ -22,5 +22,8 @@
 <img align="left" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 <img alt="NET7" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-
+<br>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alberto-gruning-zen" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/albert-gruning-zen?trk=profile-badge">Albert Gruning</a>
+</div>
 
